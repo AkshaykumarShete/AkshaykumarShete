@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AkshaykumarShete
+- 👀 I’m interested in c, c++, java and ready to learn new technologies
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking for employment where i can implement my coding knowledge practically
+- 📫 How to reach me :8390421584
+- 📫 LinkedIn: https://www.linkedin.com/in/akshaykumar-shete-8a16bb213
+- 📧 sheteakshaykumar@gmail.com
